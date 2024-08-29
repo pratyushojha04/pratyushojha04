@@ -1,6 +1,6 @@
 # Hi there, I'm Pratyush Ojha 👋
 
-I'm a passionate **Data Scientist** and **AI/ML Enthusiast** with a focus on building impactful projects using cutting-edge technologies. My expertise lies in **Computer Vision**, **Machine Learning**, and **Full-stack Development**.
+I'm a passionate  **AI/ML Enthusiast** with a focus on building impactful projects using cutting-edge technologies. My expertise lies in **Computer Vision**, **Machine Learning**, and **Backend Development**.
 
 - 🔭 I’m currently working on AI and ML projects.
 - 🌱 I’m continuously learning and exploring new technologies.
